@@ -13,5 +13,3 @@ const port = process.env.PORT || 4005
 app.listen(port, () => {
     console.log(`Listening on port ${port}`)
 })
-
-console.log(path)
